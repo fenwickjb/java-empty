@@ -1,2 +1,2 @@
-# java-empty
-A mostly empty Java-based project
+
+You are expected to modify this README to reflect your project!
